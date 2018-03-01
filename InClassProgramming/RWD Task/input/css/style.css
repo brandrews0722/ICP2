@@ -1,0 +1,50 @@
+
+#img1 {
+    width: 100px;
+    height: 100px;
+}
+
+.myFont {
+    font-family: 'Lato', sans-serif;
+}
+
+.fontColor1 {
+    color: #747704;
+}
+
+.fontColor2 {
+    color: #BCBBBB;
+}
+
+.bottomRightAlign {
+    text-align: right;
+    right: 0;
+}
+
+.headerRow {
+    border-bottom: gray thick solid;
+}
+.leftAlign {
+    align-content: left;
+    text-align: left;
+}
+
+#img2 {
+    width: 1140px;
+    height: 350px;
+}
+
+.img3 {
+    max-width: 350px;
+    max-height: 189px;
+
+    min-width: 350px;
+    min-height: 189px;
+}
+
+.no-gutters {
+    padding-right:  0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 3px;
+}
